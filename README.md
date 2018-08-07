@@ -1,2 +1,2 @@
 # devtest
-Test Repo
+This is a test repository for Source Controlled PowerShell scripts
