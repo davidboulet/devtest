@@ -79,3 +79,6 @@ Set-DSCLocalConfigurationManager -Path .\NewDomain –Verbose
             
 # Build the domain            
 Start-DscConfiguration -Wait -Force -Path .\NewDomain -Verbose
+
+
+#EDIT
