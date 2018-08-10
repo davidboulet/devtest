@@ -1,10 +1,7 @@
 function New-VPN {
 
     param (
-         # Name of the Automation Credential for the Tenant
-         [parameter(Mandatory=$true)] 
-         [SecureString] $automationcredentialName,
- 
+        
          # Name of the target Resource Group
          [parameter(Mandatory=$true)] 
          [string] $resourceGroup,
